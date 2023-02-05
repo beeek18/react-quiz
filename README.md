@@ -1,4 +1,4 @@
-<h1>Quiz 🤨
+<h1>Quiz 🏴‍☠️
 
 <h4>
 <li>Staged content rendering
