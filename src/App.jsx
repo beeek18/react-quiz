@@ -2,7 +2,7 @@ import React from 'react';
 import './index.scss';
 import questions from './Questions'
 
-import logoSvg from './img/onePiece.svg';
+import logoSvg from './assets/onePiece.svg';
 
 
 
