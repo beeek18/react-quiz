@@ -10,7 +10,7 @@ const Result = ({ correct, questions }) => {
 
       <img src={logoSvg} alt="One Piece" />
       <h2>You guessed {correct} answers out {questions.length}</h2>
-      <a href='/quiz'>
+      <a href='/'>
         <button>Start again</button>
       </a>
     </div>

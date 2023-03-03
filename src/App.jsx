@@ -18,7 +18,7 @@ function App() {
   React.useEffect(() => {
     setIsLoading(true)
     axios
-      .get('https://63e08d9159bb472a742402db.mockapi.io/quiz')
+      .get('https://63d0153a10982404378ccc77.mockapi.io/quiz')
       .then(({ data }) => {
         setQuestions(data)
       })
